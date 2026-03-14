@@ -7,3 +7,13 @@ ini adalah project flask pertama saya. repositi ini menujukkan progress saya dal
 
 > The Flask Mega Tutorial by Miguel Grinberg
 > Link sumber : https://share.google/vSwkjADZOTzk4T8wN
+
+
+
+
+
+
+
+
+
+
